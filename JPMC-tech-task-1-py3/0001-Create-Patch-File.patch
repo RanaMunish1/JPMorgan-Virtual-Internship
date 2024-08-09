@@ -1,9 +1,3 @@
-From be49425b3811fc0c46f51e1b1ea489e162942c18 Mon Sep 17 00:00:00 2001
-From: Manikanta <manikanta222010@gmail.com>
-Date: Wed, 27 Jul 2022 00:10:40 +0530
-Subject: [PATCH] Create Patch File
-
----
  client3.py     | 10 +++++++---
  client_test.py | 13 ++++++++++---
  2 files changed, 17 insertions(+), 6 deletions(-)
